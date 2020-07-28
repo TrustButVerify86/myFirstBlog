@@ -1,8 +1,11 @@
 body{
     border: 20px solid  #39BFFE ;
     border-width: 60%;
-    margin: 10%;
+    margin: 20px auto;
     height: 80%;
+    max-width:600px;
+    width: 80%;
+
     font-family: 'Source Sans Pro', sans-serif;
 }
 
