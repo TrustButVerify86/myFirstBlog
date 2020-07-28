@@ -1,0 +1,36 @@
+body{
+    border: 20px solid  #39BFFE ;
+    border-width: 60%;
+    margin: 10%;
+    height: 80%;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+everything{
+    background-image: url(https://drive.google.com/file/d/1qiE5ILz2Xpg_xf6etkpHurqWvVSFTy_x/view?usp=sharing);
+}
+
+div{
+    padding: 1%;
+}
+h1{
+    color: #2c3e50;
+    text-transform: capitalize;
+    font-weight: bolder;
+    margin-bottom: 2px;
+}
+h3{
+    color: #3498db;
+    text-transform: uppercase;
+    
+}
+div p:nth-child(1){
+    border-left: 8px solid grey;
+    padding-left: 6px;
+}
+hr{
+    height: 5px;
+	border: 0;
+    box-shadow: 0 4px 4px -4px #3498db inset;
+    width:75%;
+}
